@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  img {
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  .botones button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+  }
+  
+  #colorBtn {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  #contadorBtn {
+    background-color: #2ecc71;
+    color: white;
+  }
+  
