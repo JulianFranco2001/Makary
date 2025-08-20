@@ -1,0 +1,19 @@
+# Ignorar carpetas del sistema y archivos personales
+../../../*
+*.lnk
+*.reg
+*.rar
+*.pdf
+*.docx
+*.zip
+*.ini
+*.DAT*
+*.LOG*
+*.TM*
+*.regtrans-ms
+
+# Ignorar carpetas comunes de desarrollo
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
